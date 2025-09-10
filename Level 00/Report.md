@@ -189,5 +189,23 @@ This task provided a solid understanding of how to manipulate multi-dimensional 
 * **The Decoded Image:**
     ![Decoded Image](https://github.com/biradarvenkatesh01/MARVEL/blob/main/task06.png?raw=true)
 
-* **Jupyter Notebook / Code Link:**
+* **Code Link:**
     [Link to my Code](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/Matrix%20Puzzle.ipynb)
+
+    # **TASK 7: Create a Portfolio Webpage**
+
+**Objective:** To create a responsive personal portfolio website to showcase my skills, projects, and interests. The project had to be hosted and the source code pushed to a GitHub repository.
+
+---
+
+### **Outcomes and Learnings:**
+
+I built a simple portfolio webpage using just html , css, and js , no specific frameworks were used for it . the webpage is pretty simple and responsive . it displays about my projects.
+
+---
+
+![Portfolio Webpage Screenshot](https://your-screenshot-url.png)
+![Portfolio Webpage Screenshot](https://your-screenshot-url.png)
+
+* **GitHub Repository Link:**
+    [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
