@@ -72,3 +72,22 @@ The project utilizes the free and public **PokeAPI** to fetch data about various
 
 
 * **GitHub Repository Link:** [https://github.com/biradarvenkatesh01/Simple_APIs_02](https://github.com/biradarvenkatesh01/Simple_APIs_02)
+
+# **TASK 3: Working with GitHub**
+
+**Objective:** To familiarize myself with GitHub integrated workflows such as forking, cloning, committing changes, and creating pull requests.
+
+---
+
+### **Outcomes and Learnings:**
+
+1.  Forking the Repository
+2.  Cloning and Making Changes 
+3.  Committing and Pushing
+4.  Creating a Pull Request
+
+Through this task, I learend about the fork-and-pull workflow .
+
+* **My Forked Repository:** [https://github.com/biradarvenkatesh01/git-task](https://github.com/biradarvenkatesh01/git-task)
+
+**Changes made by me in main.py :**
