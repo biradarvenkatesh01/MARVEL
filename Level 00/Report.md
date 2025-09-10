@@ -68,7 +68,7 @@ The project utilizes the free and public **PokeAPI** to fetch data about various
 
 ### **Preview:**
 
-![Pokedex Application Preview](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/pokedexpreview.png?raw=true)
+![preview](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/pokedexpreview.png?raw=true)
 
 
 * **GitHub Repository Link:** [https://github.com/biradarvenkatesh01/Simple_APIs_02](https://github.com/biradarvenkatesh01/Simple_APIs_02)
@@ -91,3 +91,8 @@ Through this task, I learend about the fork-and-pull workflow .
 * **My Forked Repository:** [https://github.com/biradarvenkatesh01/git-task](https://github.com/biradarvenkatesh01/git-task)
 
 **Changes made by me in main.py :**
+![Code changes](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/codechange.png?raw=true)
+
+
+**My pull request :**
+![pullrequest](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/codechange.png?raw=true)
