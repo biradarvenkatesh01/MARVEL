@@ -158,3 +158,37 @@ Both the "scratch" model and the `scikit-learn` model were trained on the same d
     ![Comparison Graph](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/task05.png?raw=true)
 
     * **GitHub Link:** [Linear_Regression_From_Scratch_.ipynb](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/Linear_Regression_From_Scratch_.ipynb)
+
+
+     # **TASK 6: The Matrix Puzzle — Decode with NumPy & Reveal the Image**
+
+**Objective:** To get hands-on with NumPy and Matplotlib by solving a visual puzzle. The mission was to decode a scrambled matrix from a `.npy` file and reveal a hidden image using various NumPy operations.
+
+---
+
+### **Outcomes and Learnings:**
+
+This task was a fun and practical way to learn about the power of NumPy for matrix manipulation. By following the given clues, I successfully decoded the hidden image.
+
+**The decoding process involved the following steps:**
+
+1.  **Load the Data (`np.load`)**: First, I loaded the scrambled data from the given file into a NumPy array.
+
+2.  **Reshape the Matrix (`.reshape`)**: Following the clue "Try reshaping the encoded array into a square," I calculated the side length and reshaped the 1D array into a 2D square matrix.
+
+3.  **Transpose the Matrix (`.T`)**: The next clue, "The structure may be upright, but the data might be sideways," suggested changing the orientation. I used the transpose (`.T`) operation to swap the rows and columns of the matrix.
+
+4.  **Flip the Matrix (`np.flipud`)**: The final clue, "Sometimes the end is actually the beginning," led me to flip the matrix vertically. I used the `np.flipud()` (flip up-down) function, which reversed the order of rows, bringing the bottom rows to the top.
+
+5.  **Visualize the Image (`plt.imshow`)**: Once the matrix was correctly decoded, I used Matplotlib's `plt.imshow()` function to render the array as an image, revealing the hidden picture.
+
+This task provided a solid understanding of how to manipulate multi-dimensional arrays in NumPy and visualize them using Matplotlib.
+
+---
+
+* **The Decoded Image:**
+    `![Decoded Image](https://your-image-url.png)`
+
+* **Jupyter Notebook / Code Link:**
+    *(Yahan apne code ka GitHub link ya PDF ka link daalein)*
+    `[Link to my Code](https://your-github-code-url)`
