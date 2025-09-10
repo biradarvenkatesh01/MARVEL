@@ -40,17 +40,17 @@ I learned about the key parameters that can be adjusted in the slicer software t
 
 ### **Outcomes and Learnings:**
 
-**1.What I learnt About APIs:**
+**1. Theoretical Understanding of APIs:**
 
 I learned that an API (Application Programming Interface) acts as an intermediary or a messenger that allows two different software applications to communicate with each other.
 
-A good analogy is a waiter in a restaurant. The customer (user) gives an order (request) to the waiter (API). The waiter takes this request to the kitchen (system), which processes it and prepares the food (response). The waiter then brings the food back to the customer. The customer doesn't need to know how the kitchen works,they only need to interact with the waiter.
+A good analogy is a waiter in a restaurant. The customer (user) gives an order (request) to the waiter (API). The waiter takes this request to the kitchen (system), which processes it and prepares the food (response). The waiter then brings the food back to the customer. The customer doesn't need to know how the kitchen works; they only need to interact with the waiter.
 
 Similarly, APIs provide a set of rules and tools that let one application use the services of another without needing to understand its internal complexity. A real-world example is how apps like Uber or Zomato use the Google Maps API to display maps within their own application.
 
 **2. Practical Application: Pokedex Project**
 
-To apply this knowledge, I developed a simple Pokedex web application using the technologies listed below:
+I developed a simple Pokedex web application using the technologies listed below:
 
 * **HTML:** For the basic structure of the webpage.
 * **CSS:** For all the styling and user interface design.
@@ -58,18 +58,17 @@ To apply this knowledge, I developed a simple Pokedex web application using the 
 
 The project utilizes the free and public **PokeAPI** to fetch data about various Pokemon.
 
-**Functionality:**
-* A user can enter the name of a Pokemon in the search box and click the "Search" button.
-* The application's JavaScript then sends a request to the PokeAPI with the entered name.
-* If a matching Pokemon is found, the API sends back the data. The application then displays the Pokemon's name, image (sprite), and base stats (HP, Attack, Defense, etc.) in a card format.
+**How it works:**
+* User enters the name of the pokemon and clicks on search.
+* The JavaScript then sends a request to the PokeAPI with the entered name.
+* If a matching Pokemon is found, the API sends back the data. The application then displays the Pokemon's name, image (sprite), and stats (HP, Attack, Defense, etc.) in a card format.
 * If the Pokemon name is invalid or not found, an error message is displayed to the user.
 
 ---
 
-### **Project Showcase:**
+### **Preview:**
 
-Below is a screenshot of the completed Pokedex application displaying the data for "Pikachu".
+![Pokedex Application Preview](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/pokedexpreview.png?raw=true)
 
-![Pokedex Preview](pokedexpreview.png)
 
 * **GitHub Repository Link:** [https://github.com/biradarvenkatesh01/Simple_APIs_02](https://github.com/biradarvenkatesh01/Simple_APIs_02)
