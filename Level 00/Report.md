@@ -95,4 +95,27 @@ Through this task, I learend about the fork-and-pull workflow .
 
 
 **My pull request :**
-![pullrequest](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/codechange.png?raw=true)
+![pullrequest](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/pullrequest.png?raw=true)
+
+# **TASK 4: Command Line on Ubuntu**
+
+**Objective:** To get familiar with the command line on Ubuntu by completing a series of subtasks involving file and directory manipulation.
+
+---
+
+### **Outcomes and Learnings:**
+
+This task provided hands-on experience with the Ubuntu terminal. I learned how to use essential commands for navigating the file system and managing files and directories directly from the command line.
+
+**The subtasks completed were:**
+
+1.  **Creating a Directory:** I learned to use the `mkdir` command to create a new folder.
+2.  **Changing Directory:** I used the `cd` command to navigate into the newly created folder.
+3.  **Creating an Empty File:** I used the `touch` command to create a blank file without opening a text editor.
+4.  **Listing Contents:** The `ls` command was used to list all the files and folders within the current directory.
+5.  **Bulk Directory Creation:** I learned an efficient way to create a large number of numbered folders at once using brace expansion (`{}`).
+6.  **Concatenating Files:** I used the `cat` command to combine the content of two separate text files and display the result directly in the terminal.
+
+---
+![Ubuntu Command Line Task](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/ss2.jpg?raw=true) 
+![Concatenation Screenshot](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/ss1.jpg?raw=true)
