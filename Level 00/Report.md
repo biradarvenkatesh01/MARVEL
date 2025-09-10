@@ -187,8 +187,7 @@ This task provided a solid understanding of how to manipulate multi-dimensional 
 ---
 
 * **The Decoded Image:**
-    `![Decoded Image](https://your-image-url.png)`
+    ![Decoded Image](https://github.com/biradarvenkatesh01/MARVEL/blob/main/task06.png?raw=true)
 
 * **Jupyter Notebook / Code Link:**
-    *(Yahan apne code ka GitHub link ya PDF ka link daalein)*
-    `[Link to my Code](https://your-github-code-url)`
+    [Link to my Code](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/Matrix%20Puzzle.ipynb)
