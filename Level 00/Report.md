@@ -121,3 +121,40 @@ This task provided hands-on experience with the Ubuntu terminal. I learned how t
 
 ![Concatenation Screenshot](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/ss2.jpg?raw=true)
 
+# **TASK 5: Build Your Own Brain - Linear Regression from Scratch**
+
+**Objective:** To dive into the core of machine learning by implementing a Linear Regression model from scratch using Python. The performance of this custom-built model was then compared against the highly optimized implementation from the `scikit-learn` library, using the California Housing dataset for evaluation.
+
+---
+
+### **Outcomes and Learnings:**
+
+This task provided a deep, foundational understanding of how machine learning models are built and trained. The process was divided into two main parts: building the model manually and then using a pre-existing library.
+
+**1. Building Linear Regression from Scratch:**
+
+The core of this part was to manually code a model based on the simple linear equation `y = mx + c`.
+
+* **Data Preprocessing:** Before training, a crucial step was to prepare the data. The features in the California Housing dataset had different scales (e.g., square footage in thousands vs. number of rooms). To prevent the model from getting confused, I **normalized** the data, scaling all feature values to a common range between 0 and 1. This is essential for the proper functioning of Gradient Descent.
+
+* **Gradient Descent:** This is used for finding out the values for `m-weight` and `c-bias` this works by starting with random values for `m` and `c` and iteratively adjusting them to minimize the model's error (the difference between predicted and actual house prices).
+
+**2. Using Scikit-learn's Implementation:**
+
+For the second part, I used the `LinearRegression` model from the `scikit-learn` library. we trained and plotted the pridiction graph.
+
+**3. Comparison and Conclusion:**
+
+Both the "scratch" model and the `scikit-learn` model were trained on the same dataset.
+
+* **Performance Metrics:** To objectively compare them, I calculated three key metrics:
+    * **MSE (Mean Squared Error):** Measures the average squared difference between the estimated values and the actual value. 
+    * **MAE (Mean Absolute Error):** Measures the average absolute difference between the predicted and actual values.
+    * **R² Score (Coefficient of Determination):** Indicates how much of the variance in the dependent variable (price) is predictable from the independent variables (features).
+* **Conclusion:** While the "scratch" model performed reasonably well, the `scikit-learn` model was more accurate and significantly easier to implement.
+---
+
+* **Comparison Graph:** 
+    ![Comparison Graph](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/task05.png?raw=true)
+
+    * **GitHub Link:** [Linear_Regression_From_Scratch_.ipynb](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/Linear_Regression_From_Scratch_.ipynb)
