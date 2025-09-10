@@ -107,7 +107,7 @@ Through this task, I learend about the fork-and-pull workflow .
 
 This task provided hands-on experience with the Ubuntu terminal. I learned how to use essential commands for navigating the file system and managing files and directories directly from the command line.
 
-**The subtasks completed were:**
+**Commands that I used:**
 
 1.  **Creating a Directory:** I learned to use the `mkdir` command to create a new folder.
 2.  **Changing Directory:** I used the `cd` command to navigate into the newly created folder.
