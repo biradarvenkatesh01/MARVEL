@@ -337,3 +337,25 @@ video: https://youtu.be/3kag3QqMxho
 # **TASK 14: Active Participation**
 
 ![alt text](image-4.png)
+# **TASK 15: Introduction to VR**
+
+**Objective:** To familiarize myself with Virtual Reality (VR), conduct a detailed study on the differences between VR and Augmented Reality (AR), research current trends and technologies in the field, and report on Indian companies in this space.
+
+---
+What I studied about AR and VR: [AR AND VR]("https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/vr.md")
+
+I had a great experience while using the VR in the lab.
+
+
+
+
+# **Domain Specific Tasks:**
+
+# **TASK 1 (Aviation): History of Aviation**
+
+**Objective:** To learn about the history of aviation and drones and to present this knowledge in the form of a timeline or a flowchart using Notion or Draw.io.
+
+---
+
+![alt text](<Untitled Diagram.drawio.png>)
+
