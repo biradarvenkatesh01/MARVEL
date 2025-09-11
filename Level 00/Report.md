@@ -204,8 +204,10 @@ I built a simple portfolio webpage using just html , css, and js , no specific f
 
 ---
 
-![Portfolio Webpage Screenshot](https://your-screenshot-url.png)
-![Portfolio Webpage Screenshot](https://your-screenshot-url.png)
+![Portfolio Webpage Screenshot](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/task%207%20(1).png?raw=true)
+![Portfolio Webpage Screenshot](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/task-07(2).png?raw=true)
 
 * **GitHub Repository Link:**
     [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+
+    
