@@ -223,3 +223,35 @@ I wrote a reprort on **"A Particular Application of UAVs - Disaster Management"*
 * **GitHub Repository Link:** The complete Markdown file for the article is available on my GitHub.
     * **Link:** [Disaster Management UAV (task08.md)](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/task08.md)
 
+# **TASK 9: Tinkercad**
+
+**Objective:** To create a Tinkercad account, get familiar with the platform, and simulate two circuits: a simple distance-measuring device using an ultrasonic sensor, and a more complex radar system combining an ultrasonic sensor with a servo motor.
+
+---
+
+### **Outcomes and Learnings:**
+
+ I learned that an ultrasonic sensor measures distance by sending out a sound wave and calculating the time it takes for the echo to return. I successfully built the first circuit to display this distance on the serial monitor.
+
+Ultrasonic sensors are electronic devices that calculate the target’s distance by emission of ultrasonic sound waves and convert those waves into electrical signals. The speed of emitted ultrasonic waves traveling speed is faster than the audible sound.
+To know the distance between the target and the sensor, the sensor calculates the amount of time required for sound emission to travel from transmitter to receiver. The calculation is done as follows:
+D=T*c/2
+where, ‘T’ corresponds to time measured in seconds
+'c' corresponds to speed of sound= 343 m/s
+Ultrasonic sensor Working Principle
+The working principle of the ultra sonic sensor is same as radar or sonar it produces high frequency of sound and analyze the echoes by sensors.
+
+---
+* **Components Used:**
+    ![Components Used](https://your-screenshot-url.png)
+
+* **Circuit Schematics & Connections:**
+    *(Yahan circuit diagrams ke screenshots daalein)*
+    `![Schematic Diagram](https://your-schematic-url.png)`
+    `![Circuit on Breadboard](https://your-circuit-url.png)`
+
+* **Tinkercad Project Link:** The complete, interactive circuit is available on Tinkercad.
+    * **Link:** *(Yahan apne Tinkercad project ka public link daalein)*
+
+* **Simulation Video:** A video recording of the working radar simulation.
+    * **YouTube Link:** *(Yahan apne YouTube video ka link daalein)*
