@@ -8,7 +8,7 @@ Virtual reality is nothing but a acomputer generated environment , the users int
 augumented reality is nothing but the combination of users digital device with the surrounding real world environment .
 
 ## Trends:
-AR and VR both are trending in the industry . many games are being created which use VR and AR .
+AR and VR both are trending in the industry . many games are being created which use VR and AR . The trends of Metaverse is Incrasing 
 
 ## Indian Companies working on VR and AR:
 Tata ELXSI \
