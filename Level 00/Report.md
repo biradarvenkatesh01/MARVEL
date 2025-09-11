@@ -234,24 +234,102 @@ I wrote a reprort on **"A Particular Application of UAVs - Disaster Management"*
  I learned that an ultrasonic sensor measures distance by sending out a sound wave and calculating the time it takes for the echo to return. I successfully built the first circuit to display this distance on the serial monitor.
 
 Ultrasonic sensors are electronic devices that calculate the target’s distance by emission of ultrasonic sound waves and convert those waves into electrical signals. The speed of emitted ultrasonic waves traveling speed is faster than the audible sound.
-To know the distance between the target and the sensor, the sensor calculates the amount of time required for sound emission to travel from transmitter to receiver. The calculation is done as follows:
+To know the distance between the target and the sensor, the sensor calculates the amount of time required for sound emission to travel from transmitter to receiver.
+
+**The calculation is done as follows:**
+
 D=T*c/2
+
 where, ‘T’ corresponds to time measured in seconds
+
 'c' corresponds to speed of sound= 343 m/s
-Ultrasonic sensor Working Principle
+
+**Ultrasonic sensor Working Principle**
+
 The working principle of the ultra sonic sensor is same as radar or sonar it produces high frequency of sound and analyze the echoes by sensors.
 
 ---
 * **Components Used:**
-    ![Components Used](https://your-screenshot-url.png)
+    ![Components Used](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/components.png?raw=true)
 
 * **Circuit Schematics & Connections:**
-    *(Yahan circuit diagrams ke screenshots daalein)*
-    `![Schematic Diagram](https://your-schematic-url.png)`
-    `![Circuit on Breadboard](https://your-circuit-url.png)`
+    ![Schematic Diagram](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/scircuit.png?raw=true)
+    ![digital circuit](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/dcircuit.png?raw=true)
 
-* **Tinkercad Project Link:** The complete, interactive circuit is available on Tinkercad.
-    * **Link:** *(Yahan apne Tinkercad project ka public link daalein)*
+* **Tinkercad Link:**
+    *https://www.tinkercad.com/things/cFSneoO9Njp-marvel-task-09*
 
-* **Simulation Video:** A video recording of the working radar simulation.
-    * **YouTube Link:** *(Yahan apne YouTube video ka link daalein)*
+* **Simulation Video:**
+     *https://youtu.be/NFWJPCSOKYE*
+
+# **TASK 10: Speed Control of DC Motor**
+
+**Objective:** To control the speed of a 5V DC motor using an Arduino UNO and an L298N motor driver, first in a Tinkercad simulation and then on actual hardware.
+
+---
+
+### **Outcomes and Learnings:**
+
+This task involved both simulation and hands-on hardware implementation to control a DC motor's speed.
+
+1.  **Pulse Width Modulation (PWM):** I learned that the most effective way to control a DC motor's speed is by using Pulse Width Modulation (PWM). By varying the duty cycle of the signal sent to the motor driver, we can change the average voltage supplied to the motor, thus increasing or decreasing its speed.
+
+2.  **L298N Motor Driver:** The L298N motor driver was a key component. I learned that it acts as an interface between the Arduino (which provides the low-current control signal) and the DC motor (which requires a higher current). It allows the Arduino to safely control both the speed (via PWM pins) and direction of the motor.
+
+---
+![](image.png)
+![](image-1.png)
+![](image-2.png)
+![](image-3.png)
+
+video:https://youtu.be/nTzoaOKXGs0
+
+# **TASK 11: LED Toggle Using ESP32**
+
+**Objective:** To learn how to use an ESP32 to create a standalone web server that controls LEDs connected to its GPIO pins, using the Arduino IDE for programming.
+
+---
+
+### **Outcomes and Learnings:**
+
+1.  **Creating an ESP32 Web Server:** I successfully programmed the ESP32 to connect to a Wi-Fi network. Once connected, it starts a web server at a specific IP address.
+
+2.  **Web Interface Control:** I created a simple HTML webpage that was served by the ESP32. This webpage had buttons to send commands (like ON/OFF) back to the ESP32.
+
+3.  **GPIO Control:** The core of the project was writing the code to listen for these commands from the web page and then toggle the state of the GPIO pins connected to the LEDs, turning them on or off accordingly.
+---
+![alt text](<WhatsApp Image 2025-09-11 at 07.46.03_e0b9fa66.jpg>)
+![alt text](<WhatsApp Image 2025-09-11 at 07.48.53_194f2e26.jpg>)
+video : https://youtube.com/shorts/2jluH3djLn0
+
+# **TASK 12: Soldering Prerequisites**
+
+**Objective:** To learn about the essential soldering equipment (soldering iron, solder, flux, wick) and safety precautions, and to perform basic soldering on a perf board by creating a simple LED circuit.
+
+---
+
+### **Outcomes and Learnings:**
+
+
+* I soldered and desoldered an led on a perf board . I understood how to use the soldering iron correctly. 
+ 
+ ![alt text](<WhatsApp Image 2025-09-11 at 08.00.35_d81ca7bf.jpg>)
+
+# **TASK 13: Design a 555 Astable Multivibrator**
+
+**Objective:** To design and assemble a 555 astable multivibrator circuit with a target duty cycle of 60%, and to verify the output waveform using a Digital Storage Oscilloscope (DSO).
+
+---
+
+### **Outcomes and Learnings:**
+
+I learned how to calculate the required values for the resistors (R1, R2) and the capacitor (C) to achieve a specific duty cycle and frequency.
+
+I successfully assembled the circuit on a breadboard, connecting the 555 timer IC and other passive components as per the designed schematic.
+
+Using a Digital Storage Oscilloscope (DSO), I observed the square wave output generated by the circuit.
+
+---
+![alt text](<WhatsApp Image 2025-09-11 at 08.23.12_1901c6bb.jpg>)
+
+video:<video controls src="WhatsApp Video 2025-09-11 at 08.32.03_730e9f15.mp4" title="Title"></video>
