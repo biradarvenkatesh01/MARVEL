@@ -160,7 +160,7 @@ Both the "scratch" model and the `scikit-learn` model were trained on the same d
     * **GitHub Link:** [Linear_Regression_From_Scratch_.ipynb](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/Linear_Regression_From_Scratch_.ipynb)
 
 
-     # **TASK 6: The Matrix Puzzle — Decode with NumPy & Reveal the Image**
+# **TASK 6: The Matrix Puzzle — Decode with NumPy & Reveal the Image**
 
 **Objective:** To get hands-on with NumPy and Matplotlib by solving a visual puzzle. The mission was to decode a scrambled matrix from a `.npy` file and reveal a hidden image using various NumPy operations.
 
@@ -192,7 +192,7 @@ This task provided a solid understanding of how to manipulate multi-dimensional 
 * **Code Link:**
     [Link to my Code](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/Matrix%20Puzzle.ipynb)
 
-    # **TASK 7: Create a Portfolio Webpage**
+# **TASK 7: Create a Portfolio Webpage**
 
 **Objective:** To create a responsive personal portfolio website to showcase my skills, projects, and interests. The project had to be hosted and the source code pushed to a GitHub repository.
 
@@ -208,6 +208,18 @@ I built a simple portfolio webpage using just html , css, and js , no specific f
 ![Portfolio Webpage Screenshot](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/task-07(2).png?raw=true)
 
 * **GitHub Repository Link:**
-    [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+    [Click here](https://github.com/biradarvenkatesh01/Portfolio)
 
-    
+# **TASK 8: Writing Resource Article Using Markdown**
+
+**Objective:** To write a technical resource article on a particular use case or application of UAVs using Markdown for formatting. This task was designed to improve both technical knowledge and documentation skills.
+
+---
+
+### **Outcomes and Learnings:**
+
+I wrote a reprort on **"A Particular Application of UAVs - Disaster Management"**.
+
+* **GitHub Repository Link:** The complete Markdown file for the article is available on my GitHub.
+    * **Link:** [Disaster Management UAV (task08.md)](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/task08.md)
+
