@@ -332,4 +332,8 @@ Using a Digital Storage Oscilloscope (DSO), I observed the square wave output ge
 ---
 ![alt text](<WhatsApp Image 2025-09-11 at 08.23.12_1901c6bb.jpg>)
 
-video:<video controls src="WhatsApp Video 2025-09-11 at 08.32.03_730e9f15.mp4" title="Title"></video>
+video: https://youtu.be/3kag3QqMxho
+
+# **TASK 14: Active Participation**
+
+![alt text](image-4.png)
