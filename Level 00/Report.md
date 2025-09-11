@@ -187,7 +187,7 @@ This task provided a solid understanding of how to manipulate multi-dimensional 
 ---
 
 * **The Decoded Image:**
-    ![Decoded Image](https://github.com/biradarvenkatesh01/MARVEL/blob/main/task06.png?raw=true)
+    ![Decoded Image](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/task06.png?raw=true)
 
 * **Code Link:**
     [Link to my Code](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/Matrix%20Puzzle.ipynb)
