@@ -359,3 +359,41 @@ I had a great experience while using the VR in the lab.
 
 ![alt text](<Untitled Diagram.drawio.png>)
 
+# **TASK 2 (Aviation): Introduction to Flight Simulators**
+
+**Objective:** To learn manual controls, stability handling, and motor mixing using the Real Drone Racing simulator and a TX16S controller.
+
+---
+
+### **Outcomes and Learnings:**
+
+1.  **Understanding RC Controls:** I familiarized myself with the TX16S transmitter and learned the function of the primary channels:
+    * **Roll:** Controls the drone's left and right movement.
+    * **Pitch:** Controls the drone's forward and backward movement.
+    * **Yaw:** Controls the drone's rotation on its vertical axis.
+    * **Throttle:** Controls the drone's altitude (up and down).
+
+2.  **Simulator Practice:** I used the **Real Drone Racing** flight simulator to practice flying. I successfully flew the drone in **Angle Mode**, which is a stabilized mode ideal for beginners. This helped me develop a feel for the controls and how the drone responds to my inputs.
+
+3.  **Motor Mixing Concepts:** Through the simulator, I understood the concept of motor mixing—how the flight controller adjusts the speed of individual motors to achieve the desired roll, pitch, and yaw movements.
+
+# **TASK 3 (Aviation): Flying the Airblock Drone**
+
+**Objective:** To learn about the technical specifications of the Airblock Drone, operate it using its designated application, and fly it along a specified path under coordinator supervision.
+
+---
+
+### **Outcomes and Learnings:**
+
+I learnt about the different modes, specifications about the airblock drone . also got an apportunity to fly it in the prsence of a co-ordinator .
+
+also learnt about its different modes :
+
+![dronemode](dronemode.png)
+
+also I learnt about the specifications about the drone
+
+![alt_text](drone.png)
+
+
+
