@@ -17,7 +17,7 @@ I learned that the most common type of 3D printing is Fused Deposition Modeling 
 * **Nozzle:** The tip of the extruder where the molten plastic is deposited onto the printer bed.
 * **Bed:** The platform where the object is printed. It is often heated (e.g., ~60°C for PLA) to ensure the first layer of the print sticks properly and prevents warping.
 
-**3. The flow Foe 3d printing:**
+**3. The flow For 3d printing:**
 
 * **STL (Stereolithography) Files:** An STL file is the standard 3D model format for 3D printing. It represents the surface geometry of a 3D object using a mesh of small triangles. It's essentially the blueprint of the object that will be printed.
 
