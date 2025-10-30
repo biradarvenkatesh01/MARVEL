@@ -394,6 +394,3 @@ also learnt about its different modes :
 also I learnt about the specifications about the drone
 
 ![alt_text](https://github.com/biradarvenkatesh01/MARVEL/blob/main/Level%2000/drone.png?raw=true)
-
-
-
